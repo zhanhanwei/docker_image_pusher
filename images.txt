@@ -1,1 +1,1 @@
-alpine:3.8
+openjdk:8-jdk
