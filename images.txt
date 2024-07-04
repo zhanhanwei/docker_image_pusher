@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server
+docker.io/tetratelabs/customers:1.0.0
