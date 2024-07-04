@@ -1,1 +1,1 @@
-docker.io/tetratelabs/customers:1.0.0
+gcr.io/tetratelabs/customers:1.0.0
